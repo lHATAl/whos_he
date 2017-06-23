@@ -1,0 +1,6 @@
+classes= 20
+train  = /home/hata/voc/train.txt
+valid  = /home/hata/voc/2007_test.txt
+names = data/voc.names
+backup = backup
+
