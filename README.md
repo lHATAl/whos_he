@@ -1,6 +1,6 @@
 # whos_he
 - Originally forked by darknet
-- linke is here : https://pjreddie.com/darknet/yolo/
+- link is here : https://pjreddie.com/darknet/yolo/
 - github of yolo : https://github.com/pjreddie/darknet
 - OpenCV : 2.4.9
 - CUDA : 8.0
