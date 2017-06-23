@@ -7,3 +7,5 @@
 - cuDNN : 5.1
 
 This program detects face and pedestrian. if it found face, mosaic this area.
+
+check this video : https://youtu.be/VwBazA7Ykv4?t=6m46s
