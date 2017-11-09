@@ -8,6 +8,7 @@
 - CUDA : 8.0
 - cuDNN : 5.1
 - You need to complile with CUDA & OpenCV (doesn't matter about cuDNN)
+- trained by coco and https://mega.nz/#F!GRV1XKbJ!v8BCsFO8iJVNppiGXY4qMw
 
 This program detects face and pedestrian. if it found face, mosaic this area.
 
